@@ -30,5 +30,10 @@ Set the completion status of a task to be True, meaning it has been completed.
 5. Display Tasks (show_tasks):
 It displays all tasks in the list with checkmarks for completed tasks and crosses for incomplete tasks.
 
+TECHNOLOGIES USED:
+Python: The core programming language for building the logic of the app.
+Data Structures: Lists and dictionaries handle task storage and task information.
+Control Structures: if statements, loops (while and for), and function definitions provide the app's flow and decision-making.
+
 
 
